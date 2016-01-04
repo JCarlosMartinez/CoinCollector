@@ -8,13 +8,11 @@
 		</a>
 <br>
 		<a href="#" class="btn btn-lg bg-danger">
-			<span class="add-on"><i class="glyphicon glyphicon-heart"></i></span>
-			<span>My coins</span>
+			<span class="add-on"><i class="glyphicon glyphicon-heart"></i></span>My coins
 		</a>
 <br>
 		<a href="#" class="btn btn-lg bg-success">
-			<span class="add-on"><i class="glyphicon glyphicon-map-marker"></i></span>
-			<span>Map</span>			
+			<span class="add-on"><i class="glyphicon glyphicon-map-marker"></i></span>Map			
 		</a>	
 <br>
 	</div>
